@@ -1,0 +1,3 @@
+C000h-EBFFh BASIC
+F000h-F7FFh Monitor
+F800h-FFFFh SU-Erweiterung?
